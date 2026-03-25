@@ -12,7 +12,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 st.set_page_config(page_title="Jelovnik Karađorđe", page_icon="🍽️", layout="centered")
 
-st.title("🍽️ Jelovnik - Dom Karađorđe")
+st.title("🍽️ Jelovnik - Učenički centar")
 st.markdown("---")
 
 API_KEY = "K81202078688957"
